@@ -421,6 +421,7 @@
         "type": "Astromech"
       }
     ],
+    "restrictions": [{ "factions": ["Galactic Republic"] }],
     "cost": { "value": 7 },
     "limited": 1,
     "hyperspace": false,
